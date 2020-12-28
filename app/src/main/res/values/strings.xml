@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NYT Articles</string>
+
+    <string name="error_network_connection">Please connect to Network</string>
+    <string name="error_oops_something_not_right">Oops Something\'s not right</string>
+    <string name="error_server">Server Error</string>
+    <string name="text_no_record_found">No Record Found</string>
+    <string name="text_unable_to_fetch_data">Unable to Fetch Data</string>
+</resources>
